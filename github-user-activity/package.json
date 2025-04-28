@@ -1,5 +1,5 @@
 {
-  "name": "task-tracker",
+  "name": "github-user-activity",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -8,5 +8,5 @@
   "keywords": [],
   "author": "Eduardo Cuevas Solorza",
   "license": "ISC",
-  "description": "Solution of project task tracker"
+  "description": "Solution of project GitHub User Activity"
 }
