@@ -1,7 +1,7 @@
 
 # Expense Tracker
 
-Sample solution for the [GitHub Expense Tracker](https://roadmap.sh/projects/expense-tracker) challenge from [roadmap.sh](https://roadmap.sh/).
+Sample solution for the [Expense Tracker](https://roadmap.sh/projects/expense-tracker) challenge from [roadmap.sh](https://roadmap.sh/).
 
 
 ## Installation
