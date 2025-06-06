@@ -12,3 +12,7 @@ Sample solution for the [GitHub User Activity](https://roadmap.sh/projects/githu
 - [Expense Tracker](https://github.com/eduardo009cs/backend-projects/tree/main/expense-tracker)
 
 Sample solution for the [Expense Tracker](https://roadmap.sh/projects/expense-tracker) challenge from [roadmap.sh](https://roadmap.sh/).
+
+- [Number Guessing Game](https://github.com/eduardo009cs/backend-projects/tree/main/number-guessing-game)
+
+Sample solution for the [Number Guessing Game](https://roadmap.sh/projects/number-guessing-game) challenge from [roadmap.sh](https://roadmap.sh/).
